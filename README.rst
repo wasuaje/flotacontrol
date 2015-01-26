@@ -5,7 +5,7 @@ Flotacontrol
 .. image:: login.png
 
 Es un proyecto WEB2py (Python) para el control de flota de vehiculos, sus gastos y viajes realizados,  Para verlo en funcionamiento pueden
-ir a `Flota <http://http://wasuaje.pythonanywhere.com/flota>`_. No Necesita Registro
+ir a `Flota <http://wasuaje.pythonanywhere.com/flota>`_. No Necesita Registro
 
 
 
